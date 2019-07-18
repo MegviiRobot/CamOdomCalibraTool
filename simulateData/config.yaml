@@ -1,0 +1,20 @@
+%YAML:1.0
+---
+freq_cam: 50
+freq_odo: 100
+
+velocity_left: 2.0
+velocity_right: 2.0
+
+radius_l: 0.1
+radius_r: 0.1
+axle: 0.57
+
+euler_z: -1.55
+euler_y: 0.012
+euler_x: -1.580
+t0: 0.36
+t1: 0.06
+t2: 0.10
+
+

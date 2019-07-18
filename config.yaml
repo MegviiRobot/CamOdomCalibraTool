@@ -1,0 +1,17 @@
+%YAML:1.0
+---
+wheel_topic: "/odom"
+image_topic: "/mynteye/left/image_raw"
+camera_name: camera
+model_type: KANNALA_BRANDT
+image_width: 752
+image_height: 480
+projection_parameters:
+   k2: -0.02276964188728029
+   k3: -0.0005695758631369943
+   k4: -0.002622395611508031
+   k5: 0.00017455318273893808
+   mu: 367.049931000148
+   mv: 366.94446918887405
+   u0: 368.7202381120387
+   v0: 241.13814795878562
